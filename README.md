@@ -29,3 +29,7 @@ RESULT <--- USD_amount*BTC_exchange
 PRINT <--- RESULT
 END
 ```
+**My year of birth in Matrix.**<br>
+I was asked to enter convert my year of birth (1996) into binary. It is 11111001100. <br>
+Here's the math!![82d48588-e204-48c3-a53e-9e6a8199173c](https://user-images.githubusercontent.com/109565598/180112739-c62c819f-79cd-4048-a8a7-d93d0d95c037.jpg)
+
