@@ -1,5 +1,5 @@
 # README
-Victor's README for CORE CODEL ACADEMY
+Victor's README for CORE CODE ACADEMY
 ____
 **Interpreted And Compiled Programming Languages**<br>
 A Programming Language is a set of rules and instructions for a machine to execute. <br>
@@ -33,3 +33,6 @@ END
 I was asked to enter convert my year of birth (1996) into binary. It is 11111001100. <br>
 Here's the math!![82d48588-e204-48c3-a53e-9e6a8199173c](https://user-images.githubusercontent.com/109565598/180112739-c62c819f-79cd-4048-a8a7-d93d0d95c037.jpg)
 
+**MIPS programming langague**<br>
+We did a quick overview of MIPS which stands for *Microprocessor without Interlocked Pipeline Stages*. This is low-level programming language used to assembly MIPS processors.<br>
+The overview included commands and instructions to create a program that displays "hello world" and a program that asks for two numbers and prints the first one.
