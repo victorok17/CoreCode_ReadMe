@@ -1,7 +1,4 @@
 
-# README
-Victor's README for CORE CODE ACADEMY
-____
 **Interpreted And Compiled Programming Languages**<br>
 A Programming Language is a set of rules and instructions for a machine to execute. <br>
 There are three types of Programming Languages:
