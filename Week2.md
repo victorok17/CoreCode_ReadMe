@@ -19,4 +19,68 @@ function multiply(a, b){
 }
 console.log(multiply (2, 2));
 ```
-*Solution to multiply exercise:*<br>
+*Solution to ASCII total exercise:*<br>
+```
+```
+*Solution to Char From ASCII Value:*<br>
+```
+function getChar(num){
+  return String.fromCharCode(num)
+}
+
+console.log (getChar (65));
+```
+*Solution to Binary Addition exercise:*<br>
+```
+```
+*Solution to Student's Final Grade exercise:*<br>
+```
+function finalGrade (a, b) {
+  var gradeExam; 
+  var completedProjects;
+  if (a > 90 || b > 10) {
+    result='100';
+  }
+  
+  else if (a > 75 && b >= 5)
+    {
+    result='90';
+  }
+  
+  else if (a > 50 && b >= 2)
+    {
+    result='75';
+  }
+  
+  else {
+    result='0';
+  }
+  return result;
+}
+console.log(finalGrade(1,0)); 
+```
+Different resolution
+```
+function finalGrade (a, b) {
+    var gradeExam; 
+    var completedProjects;
+    if (a > 90 || b > 10) {
+      result='100';
+    
+      if (a > 75 && b >= 5)
+        {
+        result='90';
+      }
+    
+      if (a > 50 && b >= 2)
+        {
+        result='75';
+      }}
+    
+    else {
+      result='0';
+    }
+    return result;
+  }
+  console.log(finalGrade(16,3));
+```
