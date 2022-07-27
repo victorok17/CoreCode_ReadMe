@@ -10,3 +10,13 @@ Loops are cicles that repeated until a condition is truthy. There are three type
 - For *is a loop that consists in three expressions and finishes when they are all three completed.*<br>
 - While *executes a specific instruction as long as the condition is truthy.*<br>
 - Do...while *executes the code until the condition is truthy at least one time.*<br>
+
+**Exercises**<br>
+*Solution to multiply exercise:*<br>
+```
+function multiply(a, b){
+  return a * b
+}
+console.log(multiply (2, 2));
+```
+*Solution to multiply exercise:*<br>
