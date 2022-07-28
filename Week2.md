@@ -21,6 +21,14 @@ console.log(multiply (2, 2));
 ```
 *Solution to ASCII total exercise:*<br>
 ```
+function uniTotal (word) {
+  let long = word.length;
+  let total = 0;
+  for (let i = 0; i < long; i++){
+    total = total + word.charCodeAt(i);
+  }
+  return total;
+}
 ```
 **More exercises...**<br>
 *Solution to Char From ASCII Value:*<br>
