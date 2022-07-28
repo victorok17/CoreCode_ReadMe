@@ -22,6 +22,7 @@ console.log(multiply (2, 2));
 *Solution to ASCII total exercise:*<br>
 ```
 ```
+**More exercises...**<br>
 *Solution to Char From ASCII Value:*<br>
 ```
 function getChar(num){
