@@ -36,8 +36,6 @@ console.log (getChar (65));
 *Solution to Student's Final Grade exercise:*<br>
 ```
 function finalGrade (a, b) {
-  var gradeExam; 
-  var completedProjects;
   if (a > 90 || b > 10) {
     result='100';
   }
