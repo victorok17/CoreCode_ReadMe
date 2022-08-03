@@ -25,3 +25,13 @@ function likes(names) {
 ```
 ```
 Tuesday exercises <br>
+Find below teh solutions for the exercises given:<br>
+*Simple Pig Latin*<br>
+```
+```
+*Counting Duplicates*<br>
+```
+```
+*Decode The Morse Code*<br>
+```
+```
