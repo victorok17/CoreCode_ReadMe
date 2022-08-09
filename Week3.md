@@ -25,7 +25,7 @@ function likes(names) {
 ```
 ```
 Tuesday exercises <br>
-Find below teh solutions for the exercises given:<br>
+Find below the solutions for the exercises given:<br>
 *Simple Pig Latin*<br>
 ```
 ```
@@ -33,5 +33,24 @@ Find below teh solutions for the exercises given:<br>
 ```
 ```
 *Decode The Morse Code*<br>
+```
+```
+Wednesday exercises <br>
+Find below the solutions for the exercises given:<br>
+*Simple Pig Latin*<br>
+```
+```
+*Convert String To Camel Case*<br>
+```
+```
+*Unique In Order*<br>
+```
+```
+Thursday exercises <br>
+Find below the solutions for the exercises given:<br>
+*Fold An Array*<br>
+```
+```
+*Encrypt This!*<br>
 ```
 ```
