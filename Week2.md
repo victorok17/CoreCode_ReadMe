@@ -41,6 +41,10 @@ console.log (getChar (65));
 ```
 *Solution to Binary Addition exercise:*<br>
 ```
+function addBinary(a,b) {
+  let sum = a + b;
+  return sum.toString(2);
+}
 ```
 *Solution to Student's Final Grade exercise:*<br>
 ```
@@ -69,9 +73,15 @@ console.log(finalGrade(1,0));
 **More exercises...**<br>
 *Remove All Exclamation Marks From The End Of Sentence:*<br>
 ```
+function remove (string) {  
+  return string.replace(/!+$/, '');
+}
 ```
 *Vowel Remover:*<br>
 ```
+function shortcut (string) {
+  return string.replace(/[aeiou]/g, (''));
+}
 ```
 *Rock Paper Scissors!*<br>
 ```
