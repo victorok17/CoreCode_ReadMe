@@ -95,6 +95,22 @@ const rps = (p1, p2) => {
 ```
 *Persistent Bugger:*<br>
 ```
+function persistence(num) {
+   let counter = 0;
+  
+   let digits = num.toString().split("");
+  
+  while (digits.length > 1){
+    let results = 1;
+    
+    for (let i = 0; i < digits.length; i++){
+      results = results * digits[i];    
+    }
+    counter = counter + 1;
+    digits = results.toString().split("");
+  }
+  return counter
+}
 ```
 
 
