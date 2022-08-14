@@ -20,14 +20,53 @@ function likes(names) {
 ```
 *Bit Counting*<br>
 ```
+var countBits = function(n) {
+  var n = n.toString(2).replace(/0/, "").split("")
+  let count = 0;
+  for (let i = 0; i < n.length; i++){
+    count +=parseInt(n[i])
+  }
+    return count
+};
 ```
 *Your Order, Please*<br>
 ```
+function order(words){
+  if (!words) {
+    return words;
+  }
+  var arr = words.split(' ');
+  
+  var obj = {}
+  for (var element of arr) {
+    var number = getNumber(element);
+    obj[number]=element;
+  }
+  return Object.values(obj).join(' '); 
+}
+
+function getNumber (str){
+  return str.match(/\d/)[0];
+}
 ```
 Tuesday exercises <br>
 Find below the solutions for the exercises given:<br>
 *Simple Pig Latin*<br>
 ```
+function pigIt(str){
+  let newArray = []
+  let strArr = str.split (" ")
+  strArr.forEach(x => {
+    let word = x.split("");
+    word.push(word[0], "ay"), word.shift()
+    if (x === "!" || x === "." || x === "?"){
+      newArray.push(x)    
+    } else {
+      newArray.push(word.join(""))
+    }
+  })
+  return newArray.join(" ")
+}
 ```
 *Counting Duplicates*<br>
 ```
@@ -53,4 +92,22 @@ Find below the solutions for the exercises given:<br>
 ```
 *Encrypt This!*<br>
 ```
+function encrypt(word) {
+  if(word.length === 1) return `${word.charCodeAt(0)}`;
+  const charBackup = word[1];
+  word = word.replace(word[0], word.charCodeAt(0));
+  word = word.replace(charBackup, word[word.length-1]);
+  word = word.replace(/\w$/, charBackup);
+  return word;
+}
+
+var encryptThis = function(text) {
+  const textArray = text.split(' ');
+  let result = '';
+  textArray.forEach((w) => {
+    // result = `${result === '' ? '' : `${result} `}${encrypt(w)}`;
+    result = `${result} ${encrypt(w)}`;
+  })
+  return result.trim();
+}
 ```
