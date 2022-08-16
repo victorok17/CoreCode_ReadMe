@@ -101,11 +101,35 @@ function duplicateCount(text){
 ```
 *Decode The Morse Code*<br>
 ```
+decodeMorse = function(morseCode){
+  return morseCode.split('  ').map(word=>{
+    return word.split(' ').map(c=>MORSE_CODE[c]).join('')
+  }).join(' ').trim()
+}
 ```
 Wednesday exercises <br>
 Find below the solutions for the exercises given:<br>
-*Simple Pig Latin*<br>
+*Valid Parantheses*<br>
 ```
+function validParentheses(parens) {
+  let openNum = 0;
+  for(let i = 0; i < parens.length; i++){
+    if (parens.charAt(i) == "("){
+      openNum += 1;
+    }else{
+      openNum -= 1;
+    }
+    if (openNum < 0 ){
+      return false;
+    }   
+  }
+  if (openNum === 0){
+    return true
+  } else {
+    return false;
+  }
+  
+}
 ```
 *Convert String To Camel Case*<br>
 ```
