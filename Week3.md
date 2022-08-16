@@ -4,18 +4,26 @@ Find below teh solutions for the exercises given:<br>
 *Who Likes It?*<br>
 ```
 function likes(names) {
-  const people = ['Peter', 'Jacob', 'Alex', 'Max', 'John', 'Mark']
-
-  if (people === 1){
-     return console.log(people[0] + ' likes this')
+  if (names.length === 0){
+    return 'no one likes this';
+  }
+  
+  else if (names.length === 1){
+     return `${names[0]} likes this`;
   } 
   
-  else if (people <= 2){
-    return console.log(people[0] + people.length + 'like this')
+  else if (names.length === 2){
+    return `${names[0]} and ${names[1]} like this`;
   } 
   
-  else if (people === 0){
-     return console.log('No one like this')};
+  else if (names.length === 3){
+     return `${names[0]}, ${names[1]} and ${names[2]} like this`;
+    }
+  
+  else {
+  let diff = names.length - 2;
+    return `${names[0]}, ${names[1]} and ${diff} others like this`
+  }   
 }
 ```
 *Bit Counting*<br>
@@ -70,6 +78,26 @@ function pigIt(str){
 ```
 *Counting Duplicates*<br>
 ```
+function duplicateCount(text){
+  let count = 0
+  let obj = {}
+  
+  for (let i of text ){
+    i = i.toLowerCase()
+    if (!obj[i]){
+      (obj[i])=1
+    } else {
+      obj[i]++
+    }
+  }
+  for (let i in obj){
+    if (obj[i] > 1){
+      count++
+    }
+  }
+  return count
+}
+
 ```
 *Decode The Morse Code*<br>
 ```
