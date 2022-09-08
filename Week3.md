@@ -1,6 +1,6 @@
 **This is third week of CoreCode Fullstack bootcamp!**<br><br>
 Monday exercises <br>
-Find below teh solutions for the exercises given:<br>
+Find below the solutions for the exercises given:<br>
 *Who Likes It?*<br>
 ```
 function likes(names) {
