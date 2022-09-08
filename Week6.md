@@ -43,4 +43,13 @@ Wednesday exercises...<br>
 *Playing With Digits exercise*<br>
 ```
 ```
-
+Thursday exercises...<br>
+Tile exercise
+```
+```
+Time exercise
+```
+```
+Rational exercise
+```
+```
