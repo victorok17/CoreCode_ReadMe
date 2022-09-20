@@ -1,11 +1,10 @@
 **This is eigth week of CoreCode Fullstack bootcamp!**<br><br>
 On Monday, we learnt about OOP <br>
 
-Tuesday exercises...<br>
-Find below the solutions for the exercises given:<br>
-*Develop typed functions by using TypeScript*<br>
-```
-```
+Tuesday...<br>
+Quick notes about Interface and Abstract class.<br>
+*An interface* standirizes behavior<br>
+An *abstract class* generalizes behavior<br>
 
 Wednesday exercises...<br>
 Find below the solutions for the exercises given:<br>
@@ -14,6 +13,23 @@ Find below the solutions for the exercises given:<br>
 ```
 *Duplicate Encoder*<br>
 ```
+const appereances = (word: string[], charToCount: string) => {
+  return word.filter((char: string) => char === charToCount).length;
+};
+
+export function duplicateEncode(word: string) {
+  let result = '',
+    encodeChar = '';
+  const characters = [...word.toLowerCase()];
+  characters.forEach((char) => {
+    encodeChar = ')';
+    if (appereances(characters, char) === 1) {
+      encodeChar = '(';
+    }
+    result += encodeChar;
+  });
+  return result;
+}
 ```
 *Find The Odd Int*<br>
 ```
