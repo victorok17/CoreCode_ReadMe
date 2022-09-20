@@ -62,13 +62,45 @@ Wednesday exercises...<br>
 ```
 *Playing With Digits exercise*<br>
 ```
+export class G964 {
+
+    public static digPow = (n: number, p: number) => {
+    const sum = n
+      .toString()
+      .split('')
+      .map(Number)
+      .reduce((prev: number, curr: number) => prev + Math.pow(curr, p++), 0);
+    if (sum % n === 0) return sum / n;
+    return -1;
+  };
+}
+  
 ```
 Thursday exercises...<br>
 Tile exercise
 ```
+export default class Tile {
+  letter: string;
+  value: number;
+
+  constructor(letter: string, value: number) {
+    this.letter = letter;
+    this.value = value;
+  }
+
+  printTile() {
+    console.log(`
+        ===========================
+          Letter: ${this.letter}
+          Value: ${this.value}
+        ===========================
+    `);
+  }
+}
 ```
 Time exercise
 ```
+
 ```
 Rational exercise
 ```
