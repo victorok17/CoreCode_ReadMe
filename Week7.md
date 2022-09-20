@@ -8,8 +8,9 @@ Tuesday exercises...<br>
 Find below the solutions for the exercises given:<br>
 
 *Input/Output*<br>
-```
-```
+This is the result of the in out exercise:<br>
+![Screen Shot 2022-09-19 at 23 24 10](https://user-images.githubusercontent.com/109565598/191174562-c4b3d672-36b4-4c44-b35d-bebec4764534.png)
+
 Wednesday exercises...<br>
 Find below the solutions for the exercises given:<br>
 *Build Tower*<br>
