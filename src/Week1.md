@@ -87,3 +87,4 @@ if (n == 100)
  	{console.log('This is almost a special number!');}
 else {console.log('This is a regular number!')}
 ```
+*[Take me back to the main site](https://github.com/victorok17/CoreCode_ReadMe)*
