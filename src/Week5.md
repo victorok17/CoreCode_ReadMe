@@ -19,4 +19,5 @@
 It is an open-source language developed by Miscrosoft. It is a Javascript subset, which means it is derived frlom Js.<br>
 Typescript needs to be compiled into a .js to be executed in a browser.<br>
 A .ts file is created on the runtime environemnt on node.<br><br>
-I feel proud of myself since it is my first time using the terminal on my computer and succesuflly installed node.js and Typescript
+I feel proud of myself since it is my first time using the terminal on my computer and succesuflly installed node.js and Typescript<br><br>
+*[Take me back to the main site](https://github.com/victorok17/CoreCode_ReadMe)*
