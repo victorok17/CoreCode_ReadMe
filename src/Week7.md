@@ -2,7 +2,7 @@
 *We're halfway there...* <br>
 
 On Monday, we learnt more about OOP and its elementals.<br>
-I created a glossary you can read on the following link.<br><br>
+I created a glossary you can read clicking [here](https://github.com/victorok17/CoreCode_ReadMe/blob/main/src/OOP%20Glossary).<br><br>
 
 Tuesday exercises...<br>
 Find below the solutions for the exercises given:<br>
