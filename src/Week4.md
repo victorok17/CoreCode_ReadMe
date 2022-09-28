@@ -14,3 +14,5 @@ We started with the differences between <<For In>> and <<For Of>> wich are lsite
   
   **RegEx**<br>
   Is used to find patterns into strings. It finds patterns by validating conditions and searches through the text (string).<br>
+
+ *[Take me back to the main site](https://github.com/victorok17/CoreCode_ReadMe)*
