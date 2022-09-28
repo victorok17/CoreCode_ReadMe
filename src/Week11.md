@@ -25,3 +25,5 @@ The last portion of the session was about "Client-Server Model" so we answered t
 4. Is there any similarity between human communication and the client-server model?<br>* *<br><br>
 5. Is the client-server model applicable only to the Web?<br>* *<br>
    - Can you mention any other example of this model outside the Web?<br>* *<br><br>
+
+*[Take me back to the main site](https://github.com/victorok17/CoreCode_ReadMe)*
