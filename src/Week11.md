@@ -17,13 +17,13 @@ __________
 Find resolution to the third exercise [here](https://github.com/victorok17/CoreCode_ReadMe/tree/main/src/answers/week11)
 __________
 The last portion of the session was about "Client-Server Model" so we answered the following questions:<br>
-1. What is a Server?<br>* *<br><br>
-2. Why is a Client?<br>* *<br><br>
-3. Is a server just another physical computer?<br>* *<br>
-   - Why do we refer to a certain class of applications as Servers?<br>* *<br>
+1. What is a Server?<br>*In few words, it is a remote computer that provides data and services*<br><br>
+2. Why is a Client?<br>*It is the person using a service through a device such as a computer or a smartphone.*<br><br>
+3. Is a server just another physical computer?<br>* *<br><br>
+   - Why do we refer to a certain class of applications as Servers?<br>* *<br><br>
    - What is the difference?<br>* *<br><br>
-4. Is there any similarity between human communication and the client-server model?<br>* *<br><br>
-5. Is the client-server model applicable only to the Web?<br>* *<br>
-   - Can you mention any other example of this model outside the Web?<br>* *<br><br>
+4. Is there any similarity between human communication and the client-server model?<br>*Yes, we have a sender, encoding, a message, a receiver and a feedback. We may also experience noise.*<br><br>
+5. Is the client-server model applicable only to the Web?<br>*It is applicable to any type of app that requires interaction*<br><br>
+   - Can you mention any other example of this model outside the Web?<br>*Social media apps*<br><br>
 
 *[Take me back to the main site](https://github.com/victorok17/CoreCode_ReadMe)*
