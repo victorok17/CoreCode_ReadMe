@@ -14,3 +14,14 @@ We also learnt about Node.JS Module System. We answered the following questions:
 4. What are the differences between ESModules and CommonJS modules?<br>*Common JS Modules: Every file is a module and it is isolated. Also, we can define can be exported from the file. They can be used only inside Node.Js. Script invoking is different. <br>ES Modules: They can be used on browsers. We use export default instead of export.modules. *<br><br>
 5. Which types of modules exist in Node.JS?<br>*Core Modules, local Modules and Third-party Modules*<br><br>
 __________
+Find resolution to the third exercise [here](https://github.com/victorok17/CoreCode_ReadMe/tree/main/src/answers/week11)
+__________
+The last portion of the session was about "Client-Server Model" so we answered the following questions:<br>
+1. What is a Server?<br>* *<br><br>
+2. Why is a Client?<br>* *<br><br>
+3. Is a server just another physical computer?<br>* *<br>
+   - Why do we refer to a certain class of applications as Servers?<br>* *<br>
+   - What is the difference?<br>* *<br><br>
+4. Is there any similarity between human communication and the client-server model?<br>* *<br><br>
+5. Is the client-server model applicable only to the Web?<br>* *<br>
+   - Can you mention any other example of this model outside the Web?<br>* *<br><br>
