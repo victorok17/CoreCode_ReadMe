@@ -3,7 +3,7 @@
 ____
 Welcome to my first repository.<br><br>
 ![Screen Shot 2022-07-20 at 21 00 24](https://user-images.githubusercontent.com/109565598/180120663-30dea618-d407-44ee-aeab-e8125876d8ce.png)<br>
- You'll find the different challenges and homeworks completed during the CoreCode fundamentals BootCamp<br><br>
+ You'll find the different challenges and homeworks completed during the CoreCode fundamentals BootCamp<br>
  ____
  Navigate through the following links to follow my process!<br>
 - [Week 1](https://github.com/victorok17/CoreCode_ReadMe/blob/main/src/Week1.md)
