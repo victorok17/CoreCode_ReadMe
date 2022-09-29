@@ -30,11 +30,24 @@ __________
 __________
 **On Wednesday,** we learnt about API.<br>
 I filled out the follwoing questionary:<br><br>
-1. What is an API?<br>* *<br><br>
-2. What is a Protocol?<br>* *<br><br>
-3. Is the term API only applicable to the communication of programs over the Internet?<br>* *<br><br>
-4. Why is structured communication between two programs important?<br>* *<br><br>
-   - Do we humans use APIs when communicating without technology?<br>* *<br><br>
-5. Is an API just another program or a standard?<br>* *<br><br>
-6. Do you know any API? Can you list at least 5 examples of APIs?<br>* *<br><br>
+1. What is an API?<br>*It stands for Application Programming Interface and it is the part that interects between the frond end and the back end.*<br><br>
+2. What is a Protocol?<br>*It is a set of rules to standarize the same language*<br><br>
+3. Is the term API only applicable to the communication of programs over the Internet?<br>*Yes. However, it can be compared to real-life examples where an interaction exists.*<br><br>
+4. Why is structured communication between two programs important?<br>*A structure communication ensures a high-quality inteaction between user and the servicr.*<br><br>
+   - Do we humans use APIs when communicating without technology?<br>*Metaphorically speaking, because there's interaction between sender and receiver using an encoding method. Also, feedback is received.*<br><br>
+5. Is an API just another program or a standard?<br>*It is software/tool that ca be built using NodeJS or ECMAscript.*<br><br>
+6. Do you know any API? Can you list at least 5 examples of APIs?<br>*  *<br><br>
+__________
+We also discussed to about JSON to REST and completed the following questionarie:<br><br>
+1. What is HTTP?<br>*  *<br><br>
+2. What is JSON?<br>*  *<br><br>
+   - Is JSON the same as a plain Javascript object?<br>*  *<br><br>
+3. What is REST?<br>*  *<br><br>
+   - Is REST a programming language, framework, technology, or architecture pattern?<br>*  *<br><br>
+4. What is a Resource in REST?<br>*  *<br><br>
+   - What is a resource identifier?<br>*  *<br><br>
+5. What is an HTTP method?<br>*  *<br><br>
+   - What HTTP methods does REST use within its architecture rules?<br>*  *<br><br>
+   - Why do we use HTTP methods in REST and how do they relate to resources?<br>*  *<br><br>
+6. Is REST the same as HTTP?<br>*  *<br><br>
 *[Take me back to the main site](https://github.com/victorok17/CoreCode_ReadMe)*
