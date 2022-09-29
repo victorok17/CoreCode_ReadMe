@@ -10,20 +10,31 @@ __________
 We also learnt about Node.JS Module System. We answered the following questions:<br>
 1. What is a Javascript Module?<br>*It is a JS file with its own code that can be exported and imported to be used on a different JS file*<br><br>
 2. Why are Javascript Modules necessary?<br>*It makes code easier to understand and read by breaking the code into smaller pieces.*<br><br>
-3. What module standards are available in Node.JS?<br>*None, module standards are available on ES6 only.*<br><br>
+3. What module standards are available in Node.JS?<br>*-CommonJS<br>-ECMAscript*<br><br>
 4. What are the differences between ESModules and CommonJS modules?<br>*Common JS Modules: Every file is a module and it is isolated. Also, we can define can be exported from the file. They can be used only inside Node.Js. Script invoking is different. <br>ES Modules: They can be used on browsers. We use export default instead of export.modules. *<br><br>
-5. Which types of modules exist in Node.JS?<br>*Core Modules, local Modules and Third-party Modules*<br><br>
+5. Which types of modules exist in Node.JS?<br>*-Core modules<br>-Local modules<br>-Third-party modules<br><br>
 __________
 Find resolution to the third exercise [here](https://github.com/victorok17/CoreCode_ReadMe/tree/main/src/answers/week11)
 __________
 The last portion of the session was about "Client-Server Model" so we answered the following questions:<br>
 1. What is a Server?<br>*In few words, it is a remote computer that provides data and services*<br><br>
 2. Why is a Client?<br>*It is the person using a service through a device such as a computer or a smartphone.*<br><br>
-3. Is a server just another physical computer?<br>* *<br><br>
-   - Why do we refer to a certain class of applications as Servers?<br>* *<br><br>
-   - What is the difference?<br>* *<br><br>
-4. Is there any similarity between human communication and the client-server model?<br>*Yes, we have a sender, encoding, a message, a receiver and a feedback. We may also experience noise.*<br><br>
+3. Is a server just another physical computer?<br>*Yes, it could either be physical computer or device.*<br><br>
+   - Why do we refer to a certain class of applications as Servers?<br>*Because they are database application. In other words, an app server is an app that has been installed on a server.*<br><br>
+   - What is the difference?<br>*An app server especifically runs an app. A web server accepts a request for data and returns a response*<br><br>
+4. Is there any similarity between human communication and the client-server model?<br>*Yes, we have a sender, an encoding, a message, a receiver and a feedback. We may also experience noise.*<br><br>
 5. Is the client-server model applicable only to the Web?<br>*It is applicable to any type of app that requires interaction*<br><br>
    - Can you mention any other example of this model outside the Web?<br>*Social media apps*<br><br>
 
+__________
+__________
+**On Wednesday,** we learnt about API.<br>
+I filled out the follwoing questionary:<br><br>
+1. What is an API?<br>* *<br><br>
+2. What is a Protocol?<br>* *<br><br>
+3. Is the term API only applicable to the communication of programs over the Internet?<br>* *<br><br>
+4. Why is structured communication between two programs important?<br>* *<br><br>
+   - Do we humans use APIs when communicating without technology?<br>* *<br><br>
+5. Is an API just another program or a standard?<br>* *<br><br>
+6. Do you know any API? Can you list at least 5 examples of APIs?<br>* *<br><br>
 *[Take me back to the main site](https://github.com/victorok17/CoreCode_ReadMe)*
