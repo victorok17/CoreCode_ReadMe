@@ -50,5 +50,15 @@ We also discussed to about JSON to REST and completed the following questionarie
    - What HTTP methods does REST use within its architecture rules?<br>*  *<br><br>
    - Why do we use HTTP methods in REST and how do they relate to resources?<br>*  *<br><br>
 6. Is REST the same as HTTP?<br>*  *<br><br>
-
+__________
+**Postman questions**
+1. Postman only works with REST APIs?<br>*  *<br><br>
+2. Is there an alternative to Postman?<br>*  *<br><br>
+__________
+Find the resolution to exercise #4 here<br>
+__________
+__________
+**Tuesday exercises**<br><br>
+*Forrest Gump Ping-Pong API*<br>
+Delayed Response API<br>
 *[Take me back to the main site](https://github.com/victorok17/CoreCode_ReadMe)*
