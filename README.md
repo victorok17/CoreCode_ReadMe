@@ -17,3 +17,4 @@ Welcome to my first repository.<br><br>
 - [Week 9](https://github.com/victorok17/CoreCode_ReadMe/blob/main/src/Week9.md)
 - [Week 10](https://github.com/victorok17/CoreCode_ReadMe/blob/main/src/Week10.md)
 - [Week 11](https://github.com/victorok17/CoreCode_ReadMe/blob/main/src/Week11.md)
+- [Week 12](https://github.com/victorok17/CoreCode_ReadMe/blob/main/src/Week12.md)
