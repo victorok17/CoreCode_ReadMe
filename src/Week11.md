@@ -39,17 +39,17 @@ I filled out the follwoing questionary:<br><br>
 6. Do you know any API? Can you list at least 5 examples of APIs?<br>*-Amazon<br> -GoogleMaps<br> -PayPal<br> -Online bots (i.e. Twitter)<br> -Booking.com*<br><br>
 __________
 We also discussed to about JSON to REST and completed the following questionarie:<br><br>
-1. What is HTTP?<br>*  *<br><br>
-2. What is JSON?<br>*  *<br><br>
-   - Is JSON the same as a plain Javascript object?<br>*  *<br><br>
-3. What is REST?<br>*  *<br><br>
-   - Is REST a programming language, framework, technology, or architecture pattern?<br>*It is an architecture pattern. In other words, a   *<br><br>
-4. What is a Resource in REST?<br>*  *<br><br>
-   - What is a resource identifier?<br>*  *<br><br>
-5. What is an HTTP method?<br>*  *<br><br>
-   - What HTTP methods does REST use within its architecture rules?<br>*  *<br><br>
-   - Why do we use HTTP methods in REST and how do they relate to resources?<br>*  *<br><br>
-6. Is REST the same as HTTP?<br>*  *<br><br>
+1. What is HTTP?<br>*It stands for Hypertext Transfer Protocol and it is a web protocol that states the rules to communicate between the server and the user*<br><br>
+2. What is JSON?<br>*It stands for JavaScript Object Notation and it is a text format for structuring data*<br><br>
+   - Is JSON the same as a plain Javascript object?<br>*No, however, a JSON file follows the same syntax of a JS object and can be used inside a .js file as an object when converted.*<br><br>
+3. What is REST?<br>*It stands for REpresentation State Transfer and it is a set of rules to standarize requests.*<br><br>
+   - Is REST a programming language, framework, technology, or architecture pattern?<br>*It is an architecture pattern.*<br><br>
+4. What is a Resource in REST?<br>*A Resource is a noun of the web and it describes an object we need to store.*<br><br>
+   - What is a resource identifier?<br>*It is an ID that identifies a resource.*<br><br>
+5. What is an HTTP method?<br>*It is the way we interact with the data base. We can add, delete, update and complete more actions.*<br><br>
+   - What HTTP methods does REST use within its architecture rules?<br>*-Post=Create<br> -Get=Read<br> -Put=Update<br> -Delete=Delete*<br><br>
+   - Why do we use HTTP methods in REST and how do they relate to resources?<br>*It's a good way to communicate client-server*<br><br>
+6. Is REST the same as HTTP?<br>*Nope, but it uses the same methods to interact with the data.*<br><br>
 __________
 **Postman questions**
 1. Postman only works with REST APIs?<br>*  *<br><br>
